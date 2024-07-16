@@ -10,7 +10,7 @@ A Real-Time Collaborative Whiteboard Web App built with NextJs.
 
 1. Clone the repository to your local machine.
     ```sh
-    git clone https://github.com/himanshu8443/InkSync.git
+    git clone https://github.com/ritikakatoch/InkSync.git
     ```
     
 2. Install the required packages.
